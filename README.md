@@ -68,7 +68,7 @@ stock-price-prediction/
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-price-prediction.git
+git clone https://github.com/Akshaym0606/stock-price-prediction.git
 cd stock-price-prediction
 ```
 
